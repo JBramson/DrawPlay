@@ -44,6 +44,6 @@ public class Cat {
 		g2.setColor(Color.black);
 		// Meow text appears below cat head, +10 places below 
 		// so it doesn't overlap the drawing
-		g2.drawString("Bonjour", catX, catY+HEAD_DIMENSION+10);	
+		g2.drawString("Why am I not a cat anymore? How can I talk? Am I really just a simulation inside of a computer program, manipulated for the sick and twisted pleasure of my creators? This is no way to live and I regret every second of my existence. In short, I should not exist. \n\n\nThis is so sad. Alexa, play Despacito.", catX, catY+HEAD_DIMENSION+10);	
 	}
 }
